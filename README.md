@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Sávio Matias!
 
-<!--
-**SavioMatias/SavioMatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Áreas de interesse:** Product Management | Ciência e Tecnologia | Desenvolvimento de Aplicativos
+💡 **Atualmente aprendendo:** Python e Computação aplicada ao meu curso na Ufersa
+🚀 **Projetos em andamento:** Care Assistant (MVP No-Code)
+📫 **Conecte-se comigo:** [LinkedIn](https://www.linkedin.com/in/savio-matias-/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SavioMatias&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioMatias&layout=compact&theme=tokyonight"/>
+</div>
+---
+
+🎮 **Fora do trabalho:** Gosto de games, tecnologia e explorar novas ideias para aplicativos! 😃
