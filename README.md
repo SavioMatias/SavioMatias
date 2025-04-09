@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Sávio Matias!
 
 🎯 **Áreas de interesse:** Product Management | Ciência e Tecnologia | Desenvolvimento de Aplicativos
-💡 **Atualmente aprendendo:** Python, SQL e Computação aplicada ao meu curso na Ufersa
 📫 **Conecte-se comigo:** [LinkedIn](https://www.linkedin.com/in/savio-matias-/)
 
 ---
