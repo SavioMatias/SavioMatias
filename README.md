@@ -1,8 +1,9 @@
-# 👋 Olá, eu sou o Sávio Matias!
+# 👋 Olá, eu sou Sávio Matias!
 
-Estudante de Interdisciplinar em Ciencia & Tecnologia pela UFERSA-PDF e Bacharel em Administração pela FACEP     
-🎯 **Áreas de interesse:** Product Management | Ciência e Tecnologia                                      
-📫 **Conecte-se comigo:** [LinkedIn](https://www.linkedin.com/in/savio-matias-/)
+🎓 Ciência e Tecnologia | UFERSA  
+📊 Dados | Produtos | Python  
+🚀 Estudando dados e produto digital  
+ 
 
 ---
 
@@ -12,5 +13,6 @@ Estudante de Interdisciplinar em Ciencia & Tecnologia pela UFERSA-PDF e Bacharel
 </div>
 
 ---
+🐍 Python | 🐚 Shell Script | 📊 SQL | 🐼 Pandas | 🔢 NumPy | 📈 Matplotlib | 📊 Seaborn  
 
-🎮 **Fora do trabalho:** Gosto de games, tecnologia e explorar novas ideias para aplicativos! 😃
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savio-matias-/)  [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:saviosousa033@gmail.com)  
