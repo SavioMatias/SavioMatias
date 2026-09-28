@@ -1,6 +1,5 @@
 # 👋 Olá, eu sou Sávio Matias!
 
-🎓 Ciência e Tecnologia | UFERSA  
 📊 Dados | Produtos | Python  
 🚀 Estudando dados e produto digital  
  
